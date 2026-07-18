@@ -1,0 +1,6 @@
+META-INF/** text eol=lf
+common/** text eol=lf
+module.prop text eol=lf
+*.sh text eol=lf
+*.prop text eol=lf
+system/** binary

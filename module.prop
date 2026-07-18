@@ -1,0 +1,7 @@
+id=audio-fix-s20fe
+name=Audio Fix S20 FE - Bypass Broken Codec
+version=v8.1
+versionCode=81
+author=Kaitoontherun
+description=Bypasses dead audio codec IC on S20 FE Snapdragon (kona). Restores Bluetooth A2DP, USB and Remote Submix audio via HAL stub swap and SELinux context fix.
+template=3

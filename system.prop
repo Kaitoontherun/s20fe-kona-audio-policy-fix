@@ -1,0 +1,17 @@
+persist.bluetooth.a2dp_offload.disabled=true
+persist.bluetooth.a2dp_offload.cap=false
+vendor.audio.feature.a2dp_offload.enable=false
+vendor.audio.feature.spkr_prot.enable=false
+vendor.audio.feature.deepbuffer_as_primary.enable=false
+vendor.audio.feature.usb_offload.enable=false
+persist.audio.fluence.speaker=false
+persist.audio.fluence.voicecall=false
+persist.audio.fluence.voicerec=false
+persist.vendor.audio.fluence.speaker=false
+persist.vendor.audio.fluence.voicecall=false
+persist.vendor.audio.fluence.voicecomm=false
+persist.vendor.audio.fluence.voicerec=false
+vendor.audio.offload.track.enable=false
+vendor.audio.offload.multiple.enabled=false
+vendor.audio.feature.snd_mon.enable=false
+persist.bluetooth.leaudio_offload.disabled=true
