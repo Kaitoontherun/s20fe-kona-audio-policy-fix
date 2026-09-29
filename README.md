@@ -94,7 +94,7 @@ Hardware modules (1):
 
 | Device | ROM Type | Status |
 |---|---|---|
-| S20 FE Snapdragon (G780G/G781B) | AOSP ROMs (crDroid, PulsarOS, LineageOS, EvolutionX, etc.) | ✅ Tested |
+| S20 FE Snapdragon (G780G/G781B) | AOSP ROMs/OneUI (crDroid, PulsarOS, LineageOS, EvolutionX, etc.) | ✅ Tested |
 | S20 FE Snapdragon (G780G/G781B) | Stock OneUI + Magisk | ⚠️ May need XML/SELinux adjustments |
 | S20 FE Exynos (G780F) | Any | ❌ Different HAL (`exynos990`) |
 | Other Samsung Snapdragon 865 devices | Any | ⚠️ Untested, may work with adjustments |
